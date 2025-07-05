@@ -23,7 +23,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNjgxMzRmYzktM2E3MS00N2NiLWJkZjUtM2U2YWE0Z
     - Total matches played
     - Total matches won
     - Total matches lost
-    - Mactches tied/no result
+    - Matches tied/no result
     - Sri Lanka win %
 
 - Finally, the information was presented using various visualizations:
