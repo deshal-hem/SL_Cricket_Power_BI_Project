@@ -11,7 +11,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNjgxMzRmYzktM2E3MS00N2NiLWJkZjUtM2U2YWE0Z
 ## Further Information
 - This dataset was obatined from howstat.com, and has been directly linked to Power BI
 
-- After importing the data, the data was cleaned and various transformations were performed:
+- After importing the data, the data was cleaned and various transformations were performed using Power Query:
     - The opposition team was extracted using the "Text.AfterDelimiter" function
     - Match location (home or away) and opponent difficulty (strong or weak) were added using conditional columns
     - The winner of the match was added using an IF statement
