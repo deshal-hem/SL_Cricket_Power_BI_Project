@@ -15,7 +15,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNjgxMzRmYzktM2E3MS00N2NiLWJkZjUtM2U2YWE0Z
     - The opposition team was extracted using the "Text.AfterDelimiter" function
     - Match location (home or away) and opponent difficulty (strong or weak) were added using conditional columns
     - The winner of the match was added using an IF statement
-    - Irrelevant rows columns were removed
+    - Irrelevant columns were removed
 
 - Afterwards, the cleaned and transformed data were loaded into Power BI
 
