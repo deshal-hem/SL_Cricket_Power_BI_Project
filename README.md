@@ -3,7 +3,7 @@
 <img width="886" height="497" alt="Image" src="https://github.com/user-attachments/assets/baa768cc-0343-4881-917c-183a5718130e" />
 
 ## Objective
-The aim of this project is to create a Power BI dashboard showing the key statistics of Sri Lanka (SL) Cricket in ODIs.
+The aim of this project is to create a Power BI dashboard showing the performance of Sri Lanka (SL) Cricket in ODIs over the years.
 
 ## Link to Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiNjgxMzRmYzktM2E3MS00N2NiLWJkZjUtM2U2YWE0ZDg3OGUyIiwidCI6IjFkYTQ1MTA3LTFmNTMtNGE4MC1iNTMzLTliMTg4Nzk2MGNlOSIsImMiOjEwfQ%3D%3D
